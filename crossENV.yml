@@ -1,0 +1,6 @@
+name: bc
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+prefix: /home/ibtesam/miniconda3/envs/bc
